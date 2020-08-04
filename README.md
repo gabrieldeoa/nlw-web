@@ -1,3 +1,3 @@
 # NWL-WEB
 
-Rocketseat Next Level Weak #2 - Web Project
+Rocketseat Next Level Week #2 - Web Project
